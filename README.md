@@ -5,7 +5,7 @@ Projeto desenvolvido com a finalidade de por em prática alguns Layouts estudado
 
 **Desenvolvido por** *Arthur Felipe MS*
 
-## Linguagens Utilizadas
+## Linguagem Utilizada
 * *Java*
 
 ### Desenvolvido na IDE
